@@ -1,0 +1,21 @@
+wrapper order,variable,filter score
+1,max_count_by_address_30,0.3592154645024592
+2,max_count_by_ssn_dob_7,0.2284008373046459
+3,max_count_by_homephone_3,0.22475743558430883
+4,max_count_by_fulladdress_30,0.3599139689145996
+5,zip5_count_3,0.22470558061777823
+6,max_count_by_ssn_dob_30,0.2408356904780221
+7,max_count_by_homephone_7,0.23223529088398598
+8,fulladdress_count_0_by_30,0.29072213057460433
+9,max_count_by_fulladdress_homephone_30,0.24972374933900898
+10,ssn_dob_day_since,0.22862632614398662
+11,max_count_by_address_7,0.34333543165818037
+12,address_day_since,0.33413994359092425
+13,fulladdress_day_since,0.33326853562475167
+14,max_count_by_fulladdress_3,0.3295377079801467
+15,max_count_by_address_3,0.32944470550035265
+16,address_count_14,0.322436279511616
+17,fulladdress_count_14,0.3219529251448685
+18,max_count_by_address_1,0.31533190643510467
+19,max_count_by_fulladdress_1,0.31525260968215574
+20,address_count_7,0.3017352770825945

@@ -1,0 +1,21 @@
+variable name
+max_count_by_address_30
+max_count_by_ssn_dob_7
+max_count_by_homephone_3
+max_count_by_fulladdress_30
+zip5_count_3
+max_count_by_ssn_dob_30
+max_count_by_homephone_7
+fulladdress_count_0_by_30
+max_count_by_fulladdress_homephone_30
+ssn_dob_day_since
+max_count_by_address_7
+address_day_since
+fulladdress_day_since
+max_count_by_fulladdress_3
+max_count_by_address_3
+address_count_14
+fulladdress_count_14
+max_count_by_address_1
+max_count_by_fulladdress_1
+address_count_7
